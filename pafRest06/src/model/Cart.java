@@ -100,7 +100,6 @@ public class Cart {
 				output += "<td>" + pname + "</td>"; 
 				output += "<td>" + price + "</td>"; 
 				
-				
 			} 
 			
 			con.close(); 
